@@ -60,14 +60,14 @@ class CommentionsServiceProvider extends PackageServiceProvider
             [
                 Js::make('commentions-scripts', __DIR__ . '/../resources/dist/commentions.js')->module(),
             ],
-            'kirschbaum-development/' . static::$name
+            'abdelhamiderrahmouni/' . static::$name
         );
 
         FilamentAsset::register(
             [
                 Css::make('commentions', __DIR__ . '/../resources/dist/commentions.css'),
             ],
-            'kirschbaum-development/' . static::$name
+            'abdelhamiderrahmouni/' . static::$name
         );
 
         Gate::policy(CommentModel::class, config('commentions.comment.policy'));

@@ -2,10 +2,10 @@
 
 ![Laravel Supported Versions](https://img.shields.io/badge/laravel-10.x/11.x/12.x/13.x-green.svg)
 ![Filament Supported Versions](https://img.shields.io/badge/filament-3.x/4.x/5.x-green.svg)
-[![CI](https://github.com/kirschbaum-development/commentions/actions/workflows/ci.yml/badge.svg)](https://github.com/kirschbaum-development/commentions/actions/workflows/ci.yml)
+[![CI](https://github.com/abdelhamiderrahmouni/commentions/actions/workflows/ci.yml/badge.svg)](https://github.com/abdelhamiderrahmouni/commentions/actions/workflows/ci.yml)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/kirschbaum-development/commentions.svg?style=flat-square)](https://packagist.org/packages/kirschbaum-development/commentions)
-[![Total Downloads](https://img.shields.io/packagist/dt/kirschbaum-development/commentions.svg?style=flat-square)](https://packagist.org/packages/kirschbaum-development/commentions)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/abdelhamiderrahmouni/commentions.svg?style=flat-square)](https://packagist.org/packages/abdelhamiderrahmouni/commentions)
+[![Total Downloads](https://img.shields.io/packagist/dt/abdelhamiderrahmouni/commentions.svg?style=flat-square)](https://packagist.org/packages/abdelhamiderrahmouni/commentions)
 
 Commentions is a drop-in package for Filament that allows you to add comments to your resources. You can configure it so your users are mentionable in the comments, and it dispatches events so you can handle mentions in your own application however you like.
 
@@ -14,7 +14,7 @@ Commentions is a drop-in package for Filament that allows you to add comments to
 ## Installation
 
 ```bash
-composer require kirschbaum-development/commentions
+composer require abdelhamiderrahmouni/commentions
 ```
 
 ## Usage
@@ -614,11 +614,7 @@ If you discover any security related issues, please email security@kirschbaumdev
 ## Credits
 
 - [Luis Dalmolin](https://github.com/luisdalmolin)
-- [All contributors](https://github.com/kirschbaum-development/commentions/graphs/contributors)
-
-## Sponsorship
-
-Development of this package is sponsored by Kirschbaum Development Group, a developer driven company focused on problem solving, team building, and community. Learn more [about us](https://kirschbaumdevelopment.com?utm_source=github) or [join us](https://careers.kirschbaumdevelopment.com?utm_source=github)!
+- [All contributors](https://github.com/abdelhamiderrahmouni/commentions/graphs/contributors)
 
 ## License
 
