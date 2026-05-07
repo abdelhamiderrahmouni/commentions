@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.7.12](https://github.com/abdelhamiderrahmouni/commentions/releases/tag/v0.7.12) (2026-05-07)
+
+### Chores
+
+- build assets ([8ab590c](https://github.com/abdelhamiderrahmouni/commentions/commit/8ab590c7a7a1de4e4fef28940388dfe7d863988a))
 ## [0.7.11](https://github.com/abdelhamiderrahmouni/commentions/releases/tag/v0.7.11) (2026-05-07)
 
 ### Bug Fixes
