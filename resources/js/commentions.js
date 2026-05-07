@@ -30,7 +30,7 @@ document.addEventListener('alpine:init', () => {
                 const targetComponent = componentAlias ?? `commentions::${component}`
 
                 const debouncedUpdate = debounce((editor) => {
-                    Livewire.dispatchTo(targetComponent, `body:updated`, editor.getHTML());
+                    Livewire.dispatchTo(targetComponent, `body:updated`, [editor.getHTML()]);
                 }, 300);
 
                 editor = new Editor({
